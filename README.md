@@ -1,4 +1,4 @@
-Aerospace & Defense Equity Research
+Studying Aerospace & Defense businesses 
 
 Financial models and investment write-ups on aerospace and defense companies I find interesting — built as independent research.
 
